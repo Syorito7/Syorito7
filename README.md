@@ -5,7 +5,7 @@
 ## Основные проекты
 
 - [Проект 1](https://github.com/vvzunin/CircuitGen_Generator):
-- [Проект 2](https://github.com/Alex-Karma/ML_Project/tree/main)):
+- [Проект 2](https://github.com/Alex-Karma/ML_Project/tree/main):
 
 ## Связаться со мной
 
