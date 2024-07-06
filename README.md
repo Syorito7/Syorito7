@@ -10,6 +10,10 @@
 ## Вышкинский репозиторий
 [HSE](https://github.com/Syorito7/Tasks)
 
+## Учился в Московской Школы Программистов
+[Диплом](https://github.com/Syorito7/Tasks/tree/main/SHP)
+
 ## Связаться со мной
 
 - @tg: https://t.me/Syorito7
+- email: naindyuchenko@gmail.com
