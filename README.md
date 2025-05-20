@@ -17,3 +17,5 @@
 
 - @tg: https://t.me/Syorito7
 - email: naindyuchenko@edu.hse.ru
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syorito7&show_icons=true&theme=radical)
