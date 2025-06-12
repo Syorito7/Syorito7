@@ -1,9 +1,7 @@
 # 👋 Приветствие
 
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00BFFF&center=true&width=600&lines=Меня+зовут+Индюченко+Никита;Студент+4-ого+курса+прикладной+математики;в+Высшей+Школе+Экономики" alt="Typing SVG" />
-  </h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00BFFF&center=true&width=600&lines=Меня+зовут+Индюченко+Никита;Студент+4-ого+курса+прикладной+математики;в+Высшей+Школе+Экономики" alt="Typing SVG" />
 </div>
 
 ---
@@ -30,8 +28,15 @@
 
 ## Связаться со мной
 
-- Telegram: [@Syorito7](https://t.me/Syorito7)  
-- Email: naindyuchenko@edu.hse.ru
+<p align="center">
+  <a href="https://t.me/Syorito7" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="24" height="24" /> Telegram
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:naindyuchenko@edu.hse.ru" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="24" height="24" /> Email
+  </a>
+</p>
 
 ---
 
@@ -44,3 +49,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=syorito7&theme=radical)](https://git.io/streak-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=syorito7&theme=radical)
+
