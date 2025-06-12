@@ -20,3 +20,9 @@
 - email: naindyuchenko@edu.hse.ru
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syorito7&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syorito7&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=syorito7&theme=default)](https://git.io/streak-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=syorito7)
