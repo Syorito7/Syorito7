@@ -11,7 +11,7 @@
 - [Распознавание протоколов 2021-2022](https://github.com/Alex-Karma/ML_Project/tree/main)
 - [Разработка единой системы хранения и обработки датасета цифровых схем 2022-2024](https://github.com/vvzunin/CircuitGen_Generator)
 - [Выгрузка вакансий на HH.ru при помощи парсера и анализ данных для поиска - Хакатон от orionsoft](https://github.com/Syorito7/CDEK_salary_monitor/tree/parser_for_vacancy)
-
+- [Распознавание людей на фотографиях, снятых с БПЛА при помощи yplo11 - Хакатон от Архипелага 2025](https://github.com/matveisut/techies_archipelag2025)
 ---
 
 ## Вышкинский репозиторий
